@@ -1,0 +1,13 @@
+[CLIENT] 0x1200046
+  [CLIENT_ID] 274f3cfb9-be11-498d-8d58-23d3daa6759d
+  [CLIENT_LEADER] 0x1200001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox-esr
+  [WM_NAME] Kali Linux — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox-esr"
+  [GEOMETRY] (0,35,1280,989)
+  [GEOMETRY-MAXIMIZED] (-24,13,1200,939)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300

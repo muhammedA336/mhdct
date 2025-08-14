@@ -1,0 +1,230 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/spectrum/.Xauthority
+/etc/X11/Xsession.d/30x11-common_xresources: line 16: has_option: command not found
+/etc/X11/Xsession.d/50x11-common_determine-startup: line 10: has_option: command not found
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/etc/X11/Xsession.d/75dbus_dbus-launch: line 9: has_option: command not found
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+/etc/X11/Xsession.d/90x11-common_ssh-agent: line 9: has_option: command not found
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting POWERSHELL_UPDATECHECK=Off
+dbus-update-activation-environment: setting POWERSHELL_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting DOTNET_CLI_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting NMAP_PRIVILEGED=
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting PWD=/home/spectrum
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting LOGNAME=spectrum
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/spectrum/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/spectrum
+dbus-update-activation-environment: setting COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+dbus-update-activation-environment: setting HOME=/home/spectrum
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting M2_HOME=/opt/maven
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=spectrum
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+dbus-update-activation-environment: setting PATH=/home/spectrum/.local/bin:/opt/maven/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/home/spectrum/.dotnet/tools
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+** Message: 09:05:55.828: Failed to fetch _NET_NUMBER_OF_DESKTOPS; assuming 1
+** Message: 09:05:55.828: Failed to get _NET_WORKAREA; using full screen dimensions
+** Message: 09:05:55.828: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 09:05:55.828: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+gpg-agent: a gpg-agent is already running - not starting a new one
+** Message: 09:05:56.202: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+
+(polkit-mate-authentication-agent-1:1715): GLib-CRITICAL **: 09:05:56.979: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-mate-authentication-agent-1:1715): polkit-mate-1-WARNING **: 09:05:56.980: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+blueman-applet 09.05.57 WARNING  PluginManager:153 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 09.05.57 WARNING  PluginManager:153 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 09.05.57 WARNING  DiscvManager:122 update_menuitems: warning: Adapter is None
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8c49cd00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8c49cd00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8770ba00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8770ba00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff87708a00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff87708a00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8b83eb00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8b83eb00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8770a800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8770a800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8770b100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8770b100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8770a800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8770a800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8bc7c000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8bc7c000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff84a71400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff84a71400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff84a73e00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff84a73e00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff84a73b00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff84a73b00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff84a74100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff84a74100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8b83e800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8b83e800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff84a73b00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff84a73b00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff84a74100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff84a74100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff85444400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff85444400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff85444700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff85444700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff85444400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff85444400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff85445f00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff85445f00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff85447700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff85447700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff87708d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff87708d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8d94d600 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8d94d600 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8b83d600 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8b83d600 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8b83c100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff8b83c100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff840e3000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff840e3000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff83187a00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff83187a00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff831a0d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff831a0d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff831a0d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff831a0d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff831a0700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2428, MediaDecoderStateMachine #1] WARNING: Decoder=7eff831a0700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+libva info: VA-API version 1.22.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_22
+libva info: va_openDriver() returns 0
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f5271365800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f5271365800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f35b700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f35b700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f35b700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f35b700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526fc83d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526fc83d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f38a500 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f38a500 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f38ab00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f38ab00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f388a00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f388a00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f38a800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f38a800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f38a800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f38a800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f38ba00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f38ba00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f38b100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f38b100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f388700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f388700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f38b100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 8453, MediaDecoderStateMachine #1] WARNING: Decoder=7f526f38b100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 8937, MediaDecoderStateMachine #1] WARNING: Decoder=7f31ea967100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 8937, MediaDecoderStateMachine #1] WARNING: Decoder=7f31ea967100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+libva info: VA-API version 1.22.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_22
+libva info: va_openDriver() returns 0
+[Child 8937, MediaDecoderStateMachine #1] WARNING: Decoder=7f31ec005800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 8937, MediaDecoderStateMachine #1] WARNING: Decoder=7f31ec005800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 8937, MediaDecoderStateMachine #1] WARNING: Decoder=7f31ea386700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 8937, MediaDecoderStateMachine #1] WARNING: Decoder=7f31ea386700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 8937, MediaDecoderStateMachine #1] WARNING: Decoder=7f31eb25f800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 8937, MediaDecoderStateMachine #1] WARNING: Decoder=7f31eb25f800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 8937, MediaDecoderStateMachine #1] WARNING: Decoder=7f31eb25f800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 8937, MediaDecoderStateMachine #1] WARNING: Decoder=7f31eb25f800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 9205, MediaDecoderStateMachine #1] WARNING: Decoder=7f7a59b45d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 9205, MediaDecoderStateMachine #1] WARNING: Decoder=7f7a59b45d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 9205, MediaDecoderStateMachine #1] WARNING: Decoder=7f7a5853cd00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 9205, MediaDecoderStateMachine #1] WARNING: Decoder=7f7a5853cd00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 9205, MediaDecoderStateMachine #1] WARNING: Decoder=7f7a58523a00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 9205, MediaDecoderStateMachine #1] WARNING: Decoder=7f7a58523a00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 9205, MediaDecoderStateMachine #1] WARNING: Decoder=7f7a59eb0d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 9205, MediaDecoderStateMachine #1] WARNING: Decoder=7f7a59eb0d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 9205, MediaDecoderStateMachine #1] WARNING: Decoder=7f7a59eb0a00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 9205, MediaDecoderStateMachine #1] WARNING: Decoder=7f7a59eb0a00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::SystemPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ToolButtonPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ButtonPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::CheckBoxPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::RadioButtonPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::HeaderPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ItemViewPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::MessageBoxLabelPelette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::TabBarPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::LabelPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::GroupBoxPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::MenuPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::MenuBarPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::TextEditPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::TextEditPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::TextLineEditPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ToolTipPalette
+virtual QVariant Qt6CTPlatformTheme::themeHint(QPlatformTheme::ThemeHint) const
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::SystemPalette
+virtual QVariant Qt6CTPlatformTheme::themeHint(QPlatformTheme::ThemeHint) const
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::SystemPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::SystemPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ToolTipPalette
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6492ba700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6492ba700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+libva info: VA-API version 1.22.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_22
+libva info: va_openDriver() returns 0
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6455e1200 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6455e1200 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6455e1200 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6455e1200 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6455f0d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6455f0d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6461ad900 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6461ad900 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6455e1b00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6455e1b00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6467a5c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6467a5c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6467a6200 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6467a6200 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6467a6e00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6467a6e00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6455e0f00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6455e0f00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6456d1a00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6456d1a00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6455f1f00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6455f1f00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa646175200 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa646175200 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa646287700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa646287700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6465e4300 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa6465e4300 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa645ed9f00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 28376, MediaDecoderStateMachine #1] WARNING: Decoder=7fa645ed9f00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 32006, MediaDecoderStateMachine #1] WARNING: Decoder=7f87becda700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 32006, MediaDecoderStateMachine #1] WARNING: Decoder=7f87becda700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 33727, MediaDecoderStateMachine #1] WARNING: Decoder=7f5e7d4d6d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 33727, MediaDecoderStateMachine #1] WARNING: Decoder=7f5e7d4d6d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
+[Child 62837, MediaDecoderStateMachine #1] WARNING: Decoder=7fd2c9ec6400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:372
+[Child 62837, MediaDecoderStateMachine #1] WARNING: Decoder=7fd2c9ec6400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:167
